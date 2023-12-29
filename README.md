@@ -1,4 +1,4 @@
-### Hi there 👋
+### github.com/KevinLu
 
 <!--
 **KevinLu/KevinLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 😄 About
+Full-stack developer ❤ TypeScript, React, Next.js.
+
+Always learning through building!
+
+Knows a thing about product design, music production, and photography.
+
+#### 🌱 Learning
+- React 18 (Server Components, Server Actions)
+- Next.js 14
+- HLS server for audio streaming
