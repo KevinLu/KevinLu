@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### 😄 About
-- Full-stack developer ❤ TypeScript, React, Next.js.
+- Full-stack developer ❤ TypeScript, React, Next.js
 - Always learning through building!
 - Studying computers @ University of Waterloo
 
