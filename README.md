@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 #### 🌱 Learning
 - React 18 (Server Components, Server Actions)
-- Next.js 14
+- Next.js 15
 - HLS server for audio streaming
