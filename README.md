@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 #### 😄 About
 - Full-stack developer ❤ TypeScript, React, Next.js
 - Always learning through building!
-- Studying computers @ University of Waterloo
+- Studied computers @ University of Waterloo
 
 #### 🌱 Learning
-- React 18 (Server Components, Server Actions)
+- React 19
 - Next.js 15
 - HLS server for audio streaming
